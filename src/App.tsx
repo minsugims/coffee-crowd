@@ -12,7 +12,7 @@ function App() {
     <Router>
       <nav className="fixed top-0 left-0 w-full p-4 bg-stone-400 text-white flex justify-between items-center shadow-lg z-10">
         <div className="flex gap-6">
-          <Link to="/" className="text-neutral-100 hover:text-neutral-300 transition-colors duration-200">Beans</Link>
+          <Link to="/" className="text-neutral-100 hover:text-neutral-300 transition-colors duration-200">Coffee Crowd</Link>
           <Link to="/submit" className="text-neutral-100 hover:text-neutral-300 transition-colors duration-200">New Coffee</Link>
         </div>
         <div className="flex gap-6">
